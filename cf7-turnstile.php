@@ -14,6 +14,7 @@
  * Plugin URI:  https://github.com/nickfairchild/cf7-turnstile/
  * Description: Cloudflares turnstile recaptcha for Contact form 7.
  * Author:      Nick Fairchild <nick.fairchild@gmail.com>
+ * Author URI:  https://github.com/nickfairchild/
  * Version:     1.0.0
  * Requires at least: 6.0
  * Requires PHP: 8.0
